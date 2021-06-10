@@ -1,0 +1,38 @@
+{
+  "name": "ms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@allvaa/get-lyrics": "^1.1.4",
+    "axios": "^0.21.1",
+    "canvacord": "^5.2.0",
+    "common-tags": "^1.8.0",
+    "css-select": "^1.2.0",
+    "discord-welcome-card": "^3.7.5",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.13",
+    "express": "^4.17.1",
+    "firebase": "^8.6.1",
+    "fortnite": "^4.3.2",
+    "fortnitetracker-7days-stats": "^3.3.1",
+    "fs": "0.0.1-security",
+    "genius-lyrics-api": "^3.0.6",
+    "lyrics-finder": "^21.7.0",
+    "minecraft-server-util": "^3.5.1",
+    "moment": "^2.29.1",
+    "motd-parser": "^1.0.4",
+    "noblox.js": "^4.8.5",
+    "node-superfetch": "^0.2.3",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "twitter-api.js": "0.0.12",
+    "ytdl-core": "^4.8.2"
+  }
+}
